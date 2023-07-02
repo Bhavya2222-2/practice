@@ -1,0 +1,39 @@
+body{
+background-color: wheat;
+}
+.header{
+display:flex;
+-ms-flex-align: end;
+background-color:rgb(147, 39, 98);
+color:aquamarine;
+justify-content: space-between;
+font-size: x-large;
+}
+#menu{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+border-color: aqua;
+
+-ms-flex-align: end;
+font-size: x-large;
+}
+#javascript{
+display:flex;
+-ms-flex-align: end;
+background-color: rgb(165, 49, 133);
+font-size: xx-large;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#python{
+    text-align:center;
+    background-color:beige;
+    font-size: xx-large;
+    justify-content: space-evenly;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+}
+#HTML{
+  
+    text-align: right;
+    background-color: rgb(187, 154, 35);
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
